@@ -1,0 +1,4 @@
+.wrap{max-width:960px;margin:0 auto;padding:24px;font-family:system-ui,sans-serif}
+.sub{color:#6b7280}
+.charts{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:720px){.charts{grid-template-columns:1fr}}
